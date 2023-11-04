@@ -18,10 +18,10 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 # Running the Project 
 
 
-# Key Variables and Definitions
--numRandomWalks: Number of random walks to generate.
--maxSteps: Maximum number of steps in a random walk.
--similarityThreshold: Threshold for similarity scores.
+# Key Variables and Definitions1
+1. numRandomWalks: Number of random walks to generate.
+2. maxSteps: Maximum number of steps in a random walk.
+3. similarityThreshold: Threshold for similarity scores.
 -perturbedGraph: Option containing the perturbed NetGraph.
 -netPerturbedGraph: The loaded NetGraph.
 -randomWalkResults: Results of random walks as RDD.
