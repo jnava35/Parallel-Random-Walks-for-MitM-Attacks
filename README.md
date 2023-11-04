@@ -17,16 +17,14 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 
 # Running the Project
 
-1. Set Configuration Parameters
-2. Initialize Spark
-3. Load Perturbed Graph
-4. Generate Random Walks
-5. Calculate Attack Statistics
-6. Estimate Precision and Recall
-7. Save Attack Statistics
-8. Stop Spark
-9. Run the Program:
-10. Analyze Results
+1. Initialize Spark
+2. Load Perturbed Graph
+3. Generate Random Walks
+4. Calculate Attack Statistics
+5. Estimate Precision and Recall
+6. Save Attack Statistics
+7. Stop Spark
+8. Analyze Results
  
 Next once you have ran the program and have the result you will 
 need to deploy it on aws. More info on project here: 
