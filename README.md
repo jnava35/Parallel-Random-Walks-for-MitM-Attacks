@@ -30,7 +30,8 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 
 Next once you have ran the program and have the result you will need to deploy it on aws
 More info on project here: 
-[HW2 Main Textbook Assignment] (https://github.com/0x1DOCD00D/CS441_Fall2023/blob/main/Homework2.md)
+[HW2 Main Textbook Assignment](https://github.com/0x1DOCD00D/CS441_Fall2023/blob/main/Homework2.md)
+
 
 # Key Variables and Definitions1
 1. numRandomWalks: Number of random walks to generate.
