@@ -15,8 +15,20 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 9. In terminal type scala -version. It should be 2.13.10
 10. Once you have confirmed we can do the following, from the terminal, run `sbt clean compile`
 
-# Running the Project 
+# Running the Project
 
+1. Set Configuration Parameters
+2. Initialize Spark
+3. Load Perturbed Graph
+4. Generate Random Walks
+5. Calculate Attack Statistics
+6. Estimate Precision and Recall
+7. Save Attack Statistics
+8. Stop Spark
+9. Run the Program:
+10. Analyze Results
+
+Next once you have ran the program and have the result you will need to deploy it on aws 
 
 # Key Variables and Definitions1
 1. numRandomWalks: Number of random walks to generate.
