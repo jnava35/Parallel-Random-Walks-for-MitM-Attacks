@@ -13,7 +13,7 @@ object randomWalk {
   val numRandomWalks = 50
   val maxSteps = 500
 
-  // WHere we are going to save the output
+  // Where we are going to save the output
   val outputPath = "C:\\Users\\fatjj\\Desktop\\output"
 
   val similarityThreshold = 0.8
