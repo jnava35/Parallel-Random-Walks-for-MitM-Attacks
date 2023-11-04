@@ -12,7 +12,7 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 6. Add the netmodelsim.jar by doing the same step on step (5)
    `file -> Project Structure -> Modules -> Dependencies -> + -> JAR or Directories` and locate the netmodalsim.jar
 8. Once we have the dependencies setup let use confirm we the correct scala version
-9. In terminal type scala -version. It should be 2.13.10
+9. In terminal type `scala -version`. It should be `2.13.10`
 10. Once you have confirmed we can do the following, from the terminal, run `sbt clean compile`
 
 # Running the Project
