@@ -22,17 +22,17 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 1. numRandomWalks: Number of random walks to generate.
 2. maxSteps: Maximum number of steps in a random walk.
 3. similarityThreshold: Threshold for similarity scores.
--perturbedGraph: Option containing the perturbed NetGraph.
--netPerturbedGraph: The loaded NetGraph.
--randomWalkResults: Results of random walks as RDD.
--successfulAttacks: Count of successful attacks.
--failedAttacks: Count of failed attacks.
--valuableDataNodes: Count of valuable data nodes in the NetGraph.
--precision: Precision of the attack.
--recall: Recall of the attack.
--randomWalkStream: Stream of nodes in a random walk.
--similarityScoresRDD: RDD of similarity scores.
--weightedSum: Weighted sum of similarity scores.
--totalValue: Total weight value used in calculating the overall similarity score.
--overallSimilarityScore: Overall similarity score between original and perturbed nodes.
+4. perturbedGraph: Option containing the perturbed NetGraph.
+5. netPerturbedGraph: The loaded NetGraph.
+6. randomWalkResults: Results of random walks as RDD.
+7. successfulAttacks: Count of successful attacks.
+8. failedAttacks: Count of failed attacks.
+9. valuableDataNodes: Count of valuable data nodes in the NetGraph.
+10. precision: Precision of the attack.
+11. recall: Recall of the attack.
+12. randomWalkStream: Stream of nodes in a random walk.
+13. similarityScoresRDD: RDD of similarity scores.
+14. weightedSum: Weighted sum of similarity scores.
+15. totalValue: Total weight value used in calculating the overall similarity score.
+16. overallSimilarityScore: Overall similarity score between original and perturbed nodes.
 
