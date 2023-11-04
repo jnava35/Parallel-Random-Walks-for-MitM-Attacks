@@ -18,3 +18,21 @@ NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
 # Running the Project 
 
 
+# Key Variables and Definitions
+-numRandomWalks: Number of random walks to generate.
+-maxSteps: Maximum number of steps in a random walk.
+-similarityThreshold: Threshold for similarity scores.
+-perturbedGraph: Option containing the perturbed NetGraph.
+-netPerturbedGraph: The loaded NetGraph.
+-randomWalkResults: Results of random walks as RDD.
+-successfulAttacks: Count of successful attacks.
+-failedAttacks: Count of failed attacks.
+-valuableDataNodes: Count of valuable data nodes in the NetGraph.
+-precision: Precision of the attack.
+-recall: Recall of the attack.
+-randomWalkStream: Stream of nodes in a random walk.
+-similarityScoresRDD: RDD of similarity scores.
+-weightedSum: Weighted sum of similarity scores.
+-totalValue: Total weight value used in calculating the overall similarity score.
+-overallSimilarityScore: Overall similarity score between original and perturbed nodes.
+
