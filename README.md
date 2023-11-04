@@ -1,6 +1,6 @@
 # HW2 Spark/Graph X
 
-NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW1 CS 441
+NetID: jnava35@uic.edu | UIN: 660115946 | Repo for HW2 CS 441
 
 # Setting up Project
 
