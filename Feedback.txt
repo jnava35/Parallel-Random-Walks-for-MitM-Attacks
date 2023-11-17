@@ -1,0 +1,11 @@
+Student: Jose Nava
+
+Hardcoded variables => -1.3%
+No AWS deployment/Video = -0.5%
+
+You seem to have a good understanding of the technologies required by this assignment. However, I would've liked to see some more techincal documentation. While the comments are good, they don't explain the whole picture of what you came up with and how it works. In the real world, detailed techincal documentation is always appreciated, since it means that someone reviewing your work doesn't have to read each line of code and figure out what your solution is. This is a good opportunity to practice this skill, and it'll only help you in the future when you step into the tech industry.
+Also, look into how to use .conf files for hardcoded variables - it is pretty much standard to use configuration files rather than hardcoding, since the people using the programs you write will nearly always not have access to an IDE, or the technical knowhow to load source code and change values in it.
+Good attempt overall. Keep it up!
+
+Final Grade: 13.2%
+
